@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/src/$1" }
+    { "source": "/docs/:path*", "destination": "https://sch123.z13.web.core.windows.net/docs/:path*" }
   ]
 }
