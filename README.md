@@ -1,4 +1,5 @@
-# 🌐 Static Content Hosting en Azure - Cloud Design Pattern  
+# 🌐 Static Content Hosting en Azure - Luis Pinillos y Sara Cardona
+
 
 Este documento explica cómo configurar una cuenta de almacenamiento en **Azure** para alojar contenido estático, utilizando el patrón de diseño **Static Content Hosting**.  
 
